@@ -3,11 +3,12 @@
 I am Junior Front End developer (mainly React).
 
 🔨 HTML, modern CSS, JS, React, Gatsby & Hugo.  
-🚀 I’m working on [Arcadia](https://github.com/danielkvist/gatsby-theme-arcadia), a modern and customizable theme for Gatsby.  
-🌱 I’m learning TypeScript and advanced TDD techniques.  
-📫 You can send me an email to: danielkvist@protonmail.com  
-🐦 Or send me a DM at: [@danielkvist\_](https://twitter.com/danielkvist_)  
+🚀 I’m working on an e-commerce platform using Gatsby and Shopify.
+🌱 I’m learning UI design principles using Adobe XD.  
 🔗 If you want to learn more about me check my [personal website](https://dkvist.com)
+🎨 Or if you want to see some of my designs visit my profile at [Dribbble](https://dribbble.com/danielkvist_)
+📫 You can send me an email to: danielkvist@protonmail.com  
+🐦 Or send me a DM at: [@danielkvist\_](https://twitter.com/danielkvist_)
 
 ## Codepen
 
@@ -23,5 +24,6 @@ I am Junior Front End developer (mainly React).
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/danielkvist)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='22'>](https://codepen.io/danielkvist)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='22'>](https://twitter.com/danielkvist_)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='22'>](https://dribbble.com/danielkvist_)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/daniel-zaragoza-006797172/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gatsby.svg' alt='website' height='22'>](https://dkvist.com)
