@@ -7,7 +7,7 @@ I am Junior Front End developer (mainly React).
 🌱 I’m learning UI design principles using Adobe XD.  
 🔗 If you want to learn more about me check my [personal website](https://dkvist.com)  
 🎨 Or if you want to see some of my designs visit my profile at [Dribbble](https://dribbble.com/danielkvist_)  
-📫 You can send me an email to: danielkvist@protonmail.com  
+📫 You can send me an email to: daniel@dkvist.com  
 🐦 Or send me a DM at: [@danielkvist\_](https://twitter.com/danielkvist_)
 
 ## Codepen
