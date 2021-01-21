@@ -2,11 +2,11 @@
 
 I am Junior Front End developer (mainly React).
 
-🔨 HTML, modern CSS, JS, React, Gatsby & Hugo.  
-🚀 I’m working on an e-commerce platform using Gatsby and Shopify.  
-🌱 I’m learning UI design principles using Adobe XD.  
-🔗 If you want to learn more about me check my [personal website](https://dkvist.com)  
-🎨 Or if you want to see some of my designs visit my profile at [Dribbble](https://dribbble.com/danielkvist_)  
+🔨 HTML, CSS, JS, React, Gatsby, Next.js & TypeScript.  
+🚀 I’m working on a Gatsby Theme powered by Sanity.  
+🌱 I’m learning Go and a bit of Dart.  
+🔗 You can learn more about me [on my personal website](https://dkvist.com)  
+🎨 Or if you are interest on my UI design skills you can visit my [Dribbble](https://dribbble.com/danielkvist_)  
 📫 You can send me an email to: daniel@dkvist.com  
 🐦 Or send me a DM at: [@danielkvist\_](https://twitter.com/danielkvist_)
 
