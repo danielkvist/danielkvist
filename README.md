@@ -1,10 +1,10 @@
 # Hi 👋, I'm Daniel!
 
-I am Junior Front End developer (mainly React).
+I am Junior Front End developer specialized in React.
 
 🔨 HTML, CSS, JS, React, Gatsby, Next.js & TypeScript.  
-🚀 I’m working on a Gatsby Theme powered by Sanity.  
-🌱 I’m learning Go and a bit of Dart.  
+🚀 I’m working on a Gatsby Theme powered by Sanity called [Giorno](https://github.com/danielkvist/gatsby-theme-giorno).  
+🌱 I’m learning Rust.
 🔗 You can learn more about me [on my personal website](https://dkvist.com)  
 🎨 Or if you are interest on my UI design skills you can visit my [Dribbble](https://dribbble.com/danielkvist_)  
 📫 You can send me an email to: daniel@dkvist.com  
